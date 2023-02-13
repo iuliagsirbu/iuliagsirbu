@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iuliagsirbu
 - 👀 I’m interested in science, technology, innovation 
-- 🌱 I’m currently pursuing my Computer Science degree
+- 🌱 I’m currently pursuing Computer Science @University of Bucharest
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iuliagsirbu&theme=dark_lover&no-bg=true&margin-w=15&title=Commits,Followers,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
